@@ -44,19 +44,51 @@ class MapScreen extends React.Component {
     this.setState({ mapRegion });
   };
 
+  getJson(url){
+    return fetch(url)
+      .then((response) => {
+        return response.json()
+      })
+      .catch((error) => {
+        console.error(error)
+      }) 
+  }
+
   componentDidMount() {
     this.setState({
       markers: [
         ...this.state.markers,
         {
-          key: 1,
+          key: 0,
+          capital: 'test',
           coordinate: {latitude: 47.6062, longitude: -122.3321},
         },
       ],
     });
+    var sc = require("./assets/StateCapitals.json")
+    let promise = this.getJson("https://raw.githubusercontent.com/bm5w/react-native-maps-project/master/assets/StateCapitals.json")
+      .then((capitols => {
+        console.log("received capitols")
+        let temp = capitols.map(x => ({
+          key: x.key, 
+          capital: x.CAPITAL,
+          coordinate: {
+            latitude: x.LATITUDE, 
+            longitude: x.LONGITUDE
+          }
+        }))
+        console.log("capitols: ", temp)
+        this.setState({
+          markers: [
+            ...this.state.markers,
+            ...temp
+          ]
+        })
+      }))
   }
 
   render() {
+    console.log(this.state)
     return (
     <MapView 
       provider={this.props.provider} 
@@ -67,6 +99,7 @@ class MapScreen extends React.Component {
       {this.state.markers.map(marker => (
           <MapView.Marker
             key={marker.key}
+            title={marker.title}
             coordinate={marker.coordinate}
           />
         ))}
