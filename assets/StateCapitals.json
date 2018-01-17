@@ -1,0 +1,352 @@
+[
+ {
+   "key": 1,
+   "STATE": "Alabama",
+   "CAPITAL": "Montgomery",
+   "LATITUDE": 32.3617,
+   "LONGITUDE": -86.2792
+ },
+ {
+   "key": 2,
+   "STATE": "Alaska",
+   "CAPITAL": "Juneau",
+   "LATITUDE": 58.3014,
+   "LONGITUDE": -134.422
+ },
+ {
+   "key": 3,
+   "STATE": "Arizona",
+   "CAPITAL": "Phoenix",
+   "LATITUDE": 33.45,
+   "LONGITUDE": -112.067
+ },
+ {
+   "key": 4,
+   "STATE": "Arkansas",
+   "CAPITAL": "Little Rock",
+   "LATITUDE": 34.7361,
+   "LONGITUDE": -92.3311
+ },
+ {
+   "key": 5,
+   "STATE": "California",
+   "CAPITAL": "Sacramento",
+   "LATITUDE": 38.5556,
+   "LONGITUDE": -121.469
+ },
+ {
+   "key": 6,
+   "STATE": "Colorado",
+   "CAPITAL": "Denver",
+   "LATITUDE": 39.7618,
+   "LONGITUDE": -104.881
+ },
+ {
+   "key": 7,
+   "STATE": "Connecticut",
+   "CAPITAL": "Hartford",
+   "LATITUDE": 41.7627,
+   "LONGITUDE": -72.6743
+ },
+ {
+   "key": 8,
+   "STATE": "Delaware",
+   "CAPITAL": "Dover",
+   "LATITUDE": 39.1619,
+   "LONGITUDE": -75.5267
+ },
+ {
+   "key": 9,
+   "STATE": "Florida",
+   "CAPITAL": "Tallahassee",
+   "LATITUDE": 30.455,
+   "LONGITUDE": -84.2533
+ },
+ {
+   "key": 10,
+   "STATE": "Georgia",
+   "CAPITAL": "Atlanta",
+   "LATITUDE": 33.755,
+   "LONGITUDE": -84.39
+ },
+ {
+   "key": 11,
+   "STATE": "Hawaii",
+   "CAPITAL": "Honolulu",
+   "LATITUDE": 21.3,
+   "LONGITUDE": -157.817
+ },
+ {
+   "key": 12,
+   "STATE": "Idaho",
+   "CAPITAL": "Boise",
+   "LATITUDE": 43.6167,
+   "LONGITUDE": -116.2
+ },
+ {
+   "key": 13,
+   "STATE": "Illinois",
+   "CAPITAL": "Springfield",
+   "LATITUDE": 39.6983,
+   "LONGITUDE": -89.6197
+ },
+ {
+   "key": 14,
+   "STATE": "Indiana",
+   "CAPITAL": "Indianapolis",
+   "LATITUDE": 39.791,
+   "LONGITUDE": -86.148
+ },
+ {
+   "key": 15,
+   "STATE": "Iowa",
+   "CAPITAL": "Des Moines",
+   "LATITUDE": 41.5908,
+   "LONGITUDE": -93.6208
+ },
+ {
+   "key": 16,
+   "STATE": "Kansas",
+   "CAPITAL": "Topeka",
+   "LATITUDE": 39.0558,
+   "LONGITUDE": -95.6894
+ },
+ {
+   "key": 17,
+   "STATE": "Kentucky",
+   "CAPITAL": "Frankfort",
+   "LATITUDE": 38.197,
+   "LONGITUDE": -84.863
+ },
+ {
+   "key": 18,
+   "STATE": "Louisiana",
+   "CAPITAL": " Baton Rouge",
+   "LATITUDE": 30.45,
+   "LONGITUDE": -91.14
+ },
+ {
+   "key": 19,
+   "STATE": "Maine",
+   "CAPITAL": " Augusta",
+   "LATITUDE": 44.307,
+   "LONGITUDE": -69.782
+ },
+ {
+   "key": 20,
+   "STATE": "Maryland",
+   "CAPITAL": "Annapolis",
+   "LATITUDE": 38.9729,
+   "LONGITUDE": -76.5012
+ },
+ {
+   "key": 21,
+   "STATE": "Massachusetts",
+   "CAPITAL": "Boston",
+   "LATITUDE": 42.3581,
+   "LONGITUDE": -71.0636
+ },
+ {
+   "key": 22,
+   "STATE": "Michigan",
+   "CAPITAL": "Lansing",
+   "LATITUDE": 42.7336,
+   "LONGITUDE": -84.5467
+ },
+ {
+   "key": 23,
+   "STATE": "Minnesota",
+   "CAPITAL": "Saint Paul",
+   "LATITUDE": 44.9442,
+   "LONGITUDE": -93.0936
+ },
+ {
+   "key": 24,
+   "STATE": "Mississippi",
+   "CAPITAL": "Jackson",
+   "LATITUDE": 32.2989,
+   "LONGITUDE": -90.1847
+ },
+ {
+   "key": 25,
+   "STATE": "Missouri",
+   "CAPITAL": "Jefferson City",
+   "LATITUDE": 38.5767,
+   "LONGITUDE": -92.1736
+ },
+ {
+   "key": 26,
+   "STATE": "Montana",
+   "CAPITAL": "Helena",
+   "LATITUDE": 46.5958,
+   "LONGITUDE": -112.027
+ },
+ {
+   "key": 27,
+   "STATE": "Nebraska",
+   "CAPITAL": "Lincoln",
+   "LATITUDE": 40.8106,
+   "LONGITUDE": -96.6803
+ },
+ {
+   "key": 28,
+   "STATE": "Nevada",
+   "CAPITAL": "Carson City",
+   "LATITUDE": 39.1608,
+   "LONGITUDE": -119.754
+ },
+ {
+   "key": 29,
+   "STATE": "New Hampshire",
+   "CAPITAL": "Concord",
+   "LATITUDE": 43.2067,
+   "LONGITUDE": -71.5381
+ },
+ {
+   "key": 30,
+   "STATE": "New Jersey",
+   "CAPITAL": "Trenton",
+   "LATITUDE": 40.2237,
+   "LONGITUDE": -74.764
+ },
+ {
+   "key": 31,
+   "STATE": "New Mexico",
+   "CAPITAL": "Santa Fe",
+   "LATITUDE": 35.6672,
+   "LONGITUDE": -105.964
+ },
+ {
+   "key": 32,
+   "STATE": "New York",
+   "CAPITAL": "Albany",
+   "LATITUDE": 42.6525,
+   "LONGITUDE": -73.7572
+ },
+ {
+   "key": 33,
+   "STATE": "North Carolina",
+   "CAPITAL": "Raleigh",
+   "LATITUDE": 35.7667,
+   "LONGITUDE": -78.6333
+ },
+ {
+   "key": 34,
+   "STATE": "North Dakota",
+   "CAPITAL": "Bismarck",
+   "LATITUDE": 46.8133,
+   "LONGITUDE": -100.779
+ },
+ {
+   "key": 35,
+   "STATE": "Ohio",
+   "CAPITAL": "Columbus",
+   "LATITUDE": 39.9833,
+   "LONGITUDE": -82.9833
+ },
+ {
+   "key": 36,
+   "STATE": "Oklahoma",
+   "CAPITAL": "Oklahoma City",
+   "LATITUDE": 35.4822,
+   "LONGITUDE": -97.535
+ },
+ {
+   "key": 37,
+   "STATE": "Oregon",
+   "CAPITAL": " Salem",
+   "LATITUDE": 44.9308,
+   "LONGITUDE": -123.029
+ },
+ {
+   "key": 38,
+   "STATE": "Pennsylvania",
+   "CAPITAL": " Harrisburg",
+   "LATITUDE": 40.2697,
+   "LONGITUDE": -76.8756
+ },
+ {
+   "key": 39,
+   "STATE": "Rhode Island",
+   "CAPITAL": "Providence",
+   "LATITUDE": 41.8236,
+   "LONGITUDE": -71.4222
+ },
+ {
+   "key": 40,
+   "STATE": "South Carolina",
+   "CAPITAL": "Columbia",
+   "LATITUDE": 34.0006,
+   "LONGITUDE": -81.0347
+ },
+ {
+   "key": 41,
+   "STATE": "South Dakota",
+   "CAPITAL": "Pierre",
+   "LATITUDE": 44.368,
+   "LONGITUDE": -100.336
+ },
+ {
+   "key": 42,
+   "STATE": "Tennessee",
+   "CAPITAL": "Nashville",
+   "LATITUDE": 36.1667,
+   "LONGITUDE": -86.7833
+ },
+ {
+   "key": 43,
+   "STATE": "Texas",
+   "CAPITAL": "Austin",
+   "LATITUDE": 30.25,
+   "LONGITUDE": -97.75
+ },
+ {
+   "key": 44,
+   "STATE": "Utah",
+   "CAPITAL": "Salt Lake City",
+   "LATITUDE": 40.75,
+   "LONGITUDE": -111.883
+ },
+ {
+   "key": 45,
+   "STATE": "Vermont",
+   "CAPITAL": "Montpelier",
+   "LATITUDE": 44.2597,
+   "LONGITUDE": -72.575
+ },
+ {
+   "key": 46,
+   "STATE": "Virginia",
+   "CAPITAL": "Richmond",
+   "LATITUDE": 37.5333,
+   "LONGITUDE": -77.4667
+ },
+ {
+   "key": 47,
+   "STATE": "Washington",
+   "CAPITAL": "Olympia",
+   "LATITUDE": 47.0425,
+   "LONGITUDE": -122.893
+ },
+ {
+   "key": 48,
+   "STATE": "West Virginia",
+   "CAPITAL": "Charleston",
+   "LATITUDE": 38.3472,
+   "LONGITUDE": -81.6333
+ },
+ {
+   "key": 49,
+   "STATE": "Wisconsin",
+   "CAPITAL": "Madison",
+   "LATITUDE": 43.0667,
+   "LONGITUDE": -89.4
+ },
+ {
+   "key": 50,
+   "STATE": "Wyoming",
+   "CAPITAL": "Cheyenne",
+   "LATITUDE": 41.1456,
+   "LONGITUDE": -104.802
+ }
+]
